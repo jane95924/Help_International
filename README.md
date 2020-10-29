@@ -8,17 +8,17 @@ We are tasked in this project to classify different countries using the socio-ec
 
 In our experimental design,we did the following
 
-*Loaded data and previewed
+* Loaded data and previewed
 
-*Data cleaning
+* Data cleaning
 
-*Exploratory data analysis
+* Exploratory data analysis
 
-*Implementing the solution using PCA,K-Means Clustering
+* Implementing the solution using PCA,K-Means Clustering
 
-*Challenging the solution using Hierarchical Clustering
+* Challenging the solution using Hierarchical Clustering
 
-*Conclusions and Recommendations
+* Conclusions and Recommendations
 
 
 ## INSTALLATION REQUIREMENTS
